@@ -4,9 +4,10 @@
 	 viewBox="0 0 228.7 39.1" style="enable-background:new 0 0 228.7 39.1;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:none;}
-	.st1{font-family:'MyriadPro-Regular';}
-	.st2{font-size:20px;}
+	.st1{fill:#FFFFFF;}
+	.st2{font-family:'MyriadPro-Regular';}
+	.st3{font-size:20px;}
 </style>
 <rect y="10.1" class="st0" width="260.8" height="58"/>
-<text transform="matrix(1 0 0 1 0 24.2797)" class="st1 st2">Propella Software Solutions</text>
+<text transform="matrix(1 0 0 1 0 24.2797)" class="st1 st2 st3">Propella Software Solutions</text>
 </svg>
